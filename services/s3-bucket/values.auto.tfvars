@@ -1,1 +1,1 @@
-bucket_name = "cicd-test-manthan4"
+bucket_name = "test798852sparsh"
